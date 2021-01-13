@@ -1,0 +1,7 @@
+C:\Prueba\BryanVera\PruebaTecnica\PruebaWeb\obj\Debug\netcoreapp3.1\PruebaWeb.csprojAssemblyReference.cache
+C:\Prueba\BryanVera\PruebaTecnica\PruebaWeb\obj\Debug\netcoreapp3.1\PruebaWeb.AssemblyInfoInputs.cache
+C:\Prueba\BryanVera\PruebaTecnica\PruebaWeb\obj\Debug\netcoreapp3.1\PruebaWeb.AssemblyInfo.cs
+C:\Prueba\BryanVera\PruebaTecnica\PruebaWeb\obj\Debug\netcoreapp3.1\PruebaWeb.csproj.CoreCompileInputs.cache
+C:\Prueba\BryanVera\PruebaTecnica\PruebaWeb\obj\Debug\netcoreapp3.1\PruebaWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Prueba\BryanVera\PruebaTecnica\PruebaWeb\obj\Debug\netcoreapp3.1\PruebaWeb.RazorAssemblyInfo.cache
+C:\Prueba\BryanVera\PruebaTecnica\PruebaWeb\obj\Debug\netcoreapp3.1\PruebaWeb.RazorAssemblyInfo.cs

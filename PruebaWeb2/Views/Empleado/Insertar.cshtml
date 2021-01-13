@@ -1,0 +1,20 @@
+﻿@model PruebaWeb2.Models.EmpleadoModel
+@{
+}
+
+<div class="container">
+    <div class="row">
+        @Html.BeginForm("Insertar","Empleado",FormMethod.Post){
+        <div class="form-group">
+            @Html.LabelFor(d => d.Nombre)
+            @Html.TextBoxFor(d => d.Nombre, null, new { @class = "form-control" })
+            @Html.LabelFor(d => d.Codigo)
+            @Html.TextBoxFor(d => d.Codigo, null, new { @class = "form-control" })
+            @Html.LabelFor(d => d.Puesto)
+            @Html.TextBoxFor(d => d.Puesto, null, new { @class = "form-control" })
+            @Html.LabelFor(d => d.Sueldo)
+            @Html.TextBoxFor(d => d.Sueldo, null, new { @class = "form-control" })
+        </div>
+        <a href="~/Index/" class="btn btn-primary">Guardar</a>
+    </div>
+</div>

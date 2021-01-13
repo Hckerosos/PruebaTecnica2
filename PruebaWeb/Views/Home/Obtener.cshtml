@@ -1,0 +1,57 @@
+﻿@model List<PruebaWeb.Models.EmpleadoModel>
+
+@{
+}
+
+<div class="container">
+
+    <div class="row">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    Nombre
+                </tr>
+                <tr>
+                    Codigo
+                </tr>
+
+                <tr>
+                    Puesto
+                </tr>
+                <tr>
+                    Sueldo
+                </tr>
+                <tr>
+                    Grupo
+                </tr>
+                <tr>
+                    Opciones
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td> @item.Nombre </td>
+                        <td> @item.Codigo </td>
+                        <td> @item.Puesto </td>
+                        <td> @item.Sueldo </td>
+                        <td> @item.IdGrupo </td>
+                        <td>
+                            <a href="~/Editar/@item.Id" class="btn btn-default"></a>
+                            <a href="~/Eliminar/@item.Id" class="btn btn-danger"></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tr>
+                <td></td>
+            </tr>
+        </table>
+        <div class="form-group text-right>
+            <a href="~/Crear/" class="btn btn-primary"></a>
+        </div>
+
+    </div>
+</div>

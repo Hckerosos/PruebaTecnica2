@@ -1,0 +1,13 @@
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\bin\Debug\netcoreapp3.1\Modelos.exe
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\bin\Debug\netcoreapp3.1\Modelos.deps.json
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\bin\Debug\netcoreapp3.1\Modelos.runtimeconfig.json
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\bin\Debug\netcoreapp3.1\Modelos.runtimeconfig.dev.json
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfoInputs.cache
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfo.cs
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\obj\Debug\netcoreapp3.1\Modelos.csproj.CoreCompileInputs.cache
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\obj\Debug\netcoreapp3.1\Modelos.dll
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\obj\Debug\netcoreapp3.1\Modelos.pdb
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\obj\Debug\netcoreapp3.1\Modelos.genruntimeconfig.cache
+C:\Prueba\BryanVera\PruebaTecnica\Modelos\obj\Debug\netcoreapp3.1\Modelos.csprojAssemblyReference.cache
